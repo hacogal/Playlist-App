@@ -1,0 +1,77 @@
+/*ComboBox styles */
+.combo-box .list-cell {
+    -fx-background-color: #282828;
+    -fx-text-fill: white;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #282828;
+}
+
+.combo-box-popup .list-view {
+    -fx-background-color: #282828;
+}
+
+.combo-box-popup .list-cell {
+    -fx-background-color: #282828;
+    -fx-text-fill: white;
+}
+
+.combo-box-popup .list-cell:hover {
+    -fx-background-color: #1DB954;
+    -fx-text-fill: white;
+}
+
+.combo-box-popup .list-cell:selected {
+    -fx-background-color: #1DB954;
+    -fx-text-fill: white;
+}
+
+.my-combo-box .list-cell {
+    -fx-background-color: #282828;
+    -fx-text-fill: white;
+}
+
+.my-combo-box .list-view {
+    -fx-background-color: #282828;
+}
+
+/* ListView styles */
+.list-view {
+    -fx-background-color: #282828;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.list-cell {
+    -fx-background-color: #282828;
+    -fx-text-fill: white;
+    -fx-padding: 8 12;
+}
+
+.list-cell:hover {
+    -fx-background-color: #3E3E3E;
+}
+
+.list-cell:selected {
+    -fx-background-color: #1DB954;
+    -fx-text-fill: white;
+}
+
+.list-view:focused .list-cell:filled:focused:selected {
+    -fx-background-color: #1DB954;
+    -fx-text-fill: white;
+}
+
+/* ScrollBar styles for ListView */
+.list-view .scroll-bar:vertical {
+    -fx-background-color: #282828;
+}
+
+.list-view .scroll-bar:vertical .thumb {
+    -fx-background-color: #3E3E3E;
+}
+
+.list-view .scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #4E4E4E;
+}
