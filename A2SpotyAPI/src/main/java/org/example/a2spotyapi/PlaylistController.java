@@ -33,8 +33,8 @@ public class PlaylistController {
 
 
     // Constants for Spotify API authentication and endpoints
-    private static final String CLIENT_ID = "fe706e4300854ae9b1b3c6936d988c80";  // Spotify API client ID
-    private static final String CLIENT_SECRET = "a3505ed588e74206b1cb915ba651c59b";  // Spotify API client secret
+    private static final String CLIENT_ID = "YOUR_CLIENT_ID";  // Spotify API client ID
+    private static final String CLIENT_SECRET = "YOUR_CLIENT_SECRET";  // Spotify API client secret
     private static final String TOKEN_URL = "https://accounts.spotify.com/api/token";  // URL to obtain OAuth token
     private static final String API_BASE_URL = "https://api.spotify.com/v1";  // Base URL for Spotify API requests
 
