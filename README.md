@@ -1,3 +1,5 @@
+![Design2](https://github.com/user-attachments/assets/43b85517-51d1-464a-b679-a5c0991980ae)
+
 This is a JavaFX-based desktop application that interfaces with the Spotify API to help users discover music playlists based on their mood or preferences. Here's an overview of its main features:
 
 1. User Interface: The app has a clean, modern interface inspired by Spotify's dark theme, featuring a main view for selection and a detail view for displaying track information.
